@@ -1,0 +1,28 @@
+{
+  "labId": "intro-to-pyats",
+  "title": "Introduction to pyATS",
+  "slug": "Execute simple connectivity tests using pyATS",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "Step 1. Introduction to pyATS ",
+     "file":"1.md"},
+    {"title":  "Step 2. Launch your simulation",
+     "file": "2.md"},
+    {"title": "Step 3. Define your pyATS Testbed",
+     "file": "3.md"},
+    {"title": "## Step 4. Define tests",
+     "file": "4.md"},
+    {"title": "Step 5. Execute Tests",
+     "file": "5.md"}
+  ],
+  "tags": [
+	{"title": "DevNet Labs Template"}
+  ],
+  "related": [
+  ],
+  "authors": [
+      {"name": "Kevin Corbin", "email": "kecorbin@cisco.com"}
+  ],
+  "active": true
+}
