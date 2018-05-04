@@ -32,6 +32,8 @@ After you have made your edits, you can simulate the user experience by running
   ```
   from the root of this repository
 
+  **NOTE** (available on Cisco VPN only)
+
 #### Publishing Requirements
 
 To create and publish a new lab, take the following steps:
