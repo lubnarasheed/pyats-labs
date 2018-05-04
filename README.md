@@ -12,11 +12,10 @@ The goal of these learning labs is to ensure a 'hands-on' learning approach rath
 
 ## About these Learning Labs
 
-For your repository, answer these questions:
-* What does this set of learning labs do?
-* Why is this set of learning labs useful?
-* How do I get started?
-* Where can I get more help?
+* Learn about the benefits of pyATS
+* Review some sample test cases
+* Execute your first pyATS test job
+
 
 ## Contributing
 
