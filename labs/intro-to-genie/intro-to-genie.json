@@ -1,0 +1,26 @@
+{
+  "labId": "intro-to-genie",
+  "title": "Introduction to Genie",
+  "slug": "This module provides an in depth overview to Genie and its features",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "Step 1. Introduction to Genie",
+      "file":"1.md"},
+    {"title": "Step 2. Install Genie Packages",
+      "file": "2.md"},
+    {"title": "Step 3. Using Genie to connect to devices",
+      "file": "3.md"},
+    {"title": "Step 4. PyPI and GitHub Overview",
+      "file": "4.md"},
+  ],
+  "tags": [
+      {"title": "Introduction to Genie"}
+  ],
+  "related": [
+  ],
+  "authors": [
+      {"name": "Lubna Rasheed", "email": "lrasheed@cisco.com"}
+  ],
+  "active": true
+}
