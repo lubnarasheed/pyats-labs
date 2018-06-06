@@ -1,0 +1,22 @@
+{
+  "labId": "parsers-with-genie",
+  "title": "Parsers with Genie",
+  "slug": "This lab demonstrates how to run a parser using Genie",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "Step 1. Genie MetaParser and Genie Libs Parsers",
+     "file":"1.md"},
+    {"title": "Step 2. Execute Genie Parsers",
+     "file": "2.md"}
+  ],
+  "tags": [
+      {"title": "Parsers with Genie"}
+  ],
+  "related": [
+  ],
+  "authors": [
+      {"name": "Lubna Rasheed", "email": "lrasheed@cisco.com"}
+  ],
+  "active": true
+}
