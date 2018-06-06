@@ -1,0 +1,24 @@
+{
+  "labId": "scripts-with-genie",
+  "title": "Scripts with Genie",
+  "slug": "This module provides an overview of writing Genie scripts using Robot and Genie Harness",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "Step 1. Genie Harness and Genie Robot",
+     "file":"1.md"},
+    {"title": "Step 2. Execute Genie script with Robot",
+     "file": "2.md"},
+    {"title": "Step 3. Execute Genie script with Easypy",
+     "file": "3.md"}
+  ],
+  "tags": [
+      {"title": "Scripts with Genie"}
+  ],
+  "related": [
+  ],
+  "authors": [
+      {"name": "Lubna Rasheed", "email": "lrasheed@cisco.com"}
+  ],
+  "active": true
+}
