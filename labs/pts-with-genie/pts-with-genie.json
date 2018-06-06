@@ -1,0 +1,22 @@
+{
+  "labId": "pts-with-genie",
+  "title": "Genie PTS using Robot",
+  "slug": "This module walks the user through running PTS with Genie",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "Step 1. Genie System Profiling",
+      "file":"1.md"},
+    {"title": "Step 2. Execute Genie PTS",
+      "file": "2.md"}
+  ],
+  "tags": [
+      {"title": "Genie PTS using Robot"}
+  ],
+  "related": [
+  ],
+  "authors": [
+      {"name": "Lubna Rasheed", "email": "lrasheed@cisco.com"}
+  ],
+  "active": true
+}
