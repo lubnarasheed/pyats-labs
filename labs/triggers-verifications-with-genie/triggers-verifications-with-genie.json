@@ -1,0 +1,24 @@
+{
+  "labId": "triggers-verifications-with-genie",
+  "title": "Triggers and Verifications with Genie",
+  "slug": "This lab demonstrates how to run triggers and verifications with Genie",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "Step 1. Genie Triggers and Verifications",
+     "file":"1.md"},
+    {"title": "Step 2. Execute Genie Triggers",
+     "file": "2.md"},
+    {"title": "Step 3. Execute Genie Verifications",
+     "file": "3.md"}
+  ],
+  "tags": [
+      {"title": "Triggers and Verifications with Genie"}
+  ],
+  "related": [
+  ],
+  "authors": [
+      {"name": "Lubna Rasheed", "email": "lrasheed@cisco.com"}
+  ],
+  "active": true
+}
