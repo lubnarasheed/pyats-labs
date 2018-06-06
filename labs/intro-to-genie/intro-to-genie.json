@@ -7,12 +7,16 @@
   "files": [
     {"title": "Step 1. Introduction to Genie",
       "file":"1.md"},
-    {"title": "Step 2. Install Genie Packages",
-      "file": "2.md"},
-    {"title": "Step 3. Using Genie to connect to devices",
-      "file": "3.md"},
-    {"title": "Step 4. PyPI and GitHub Overview",
+    {"title": "Step 2. Launch Genie VIRL simulation",
+      "file":"2.md"},
+    {"title": "Step 3. Define your Genie Testbed",
+      "file":"3.md"},
+    {"title": "Step 4. Install Genie Packages",
       "file": "4.md"},
+    {"title": "Step 5. Using Genie to connect to a device",
+      "file": "5.md"},
+    {"title": "Step 5. PyPI and GitHub Overview",
+      "file": "6.md"}
   ],
   "tags": [
       {"title": "Introduction to Genie"}
