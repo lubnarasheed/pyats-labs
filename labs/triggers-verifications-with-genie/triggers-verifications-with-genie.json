@@ -5,12 +5,20 @@
   "time": 15,
   "byod": true,
   "files": [
-    {"title": "Step 1. Genie Triggers and Verifications",
+    {"title": "Step 1. Genie Harness and Genie Robot",
      "file":"1.md"},
-    {"title": "Step 2. Execute Genie Triggers",
+    {"title": "Step 2. Genie Triggers",
      "file": "2.md"},
-    {"title": "Step 3. Execute Genie Verifications",
-     "file": "3.md"}
+    {"title": "Step 3. Execute Genie Triggers",
+     "file": "3.md"},
+    {"title": "Step 4. Genie Verifications",
+     "file": "4.md"},
+    {"title": "Step 5. Execute Genie Verifications",
+     "file": "5.md"},
+    {"title": "Step 6. Execute Genie script with Robot",
+     "file": "6.md"},
+    {"title": "Step 7. Execute Genie script with Easypy",
+     "file": "7.md"}
   ],
   "tags": [
       {"title": "Triggers and Verifications with Genie"}
